@@ -1,3 +1,7 @@
+# DEPRECATED
+
+This project has now been taken over by [Sanity as an offical plugin](https://github.com/sanity-io/table)
+
 # Sanity Table Plugin
 
 This is a (double) fork of the Sanity Plugin Table, migrated to [Sanity Studio V3](https://beta.sanity.io/docs/platform/studio/v2-to-v3).
